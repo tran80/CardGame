@@ -28,7 +28,7 @@ public class CardTrick {
         }
         
 
-        // Task 3 and 4
+        // Task 3 and 4.
 //        System.out.print("Enter card value: ");
 //        int val = input.nextInt();
 //        System.out.print("Enter suit: ");
